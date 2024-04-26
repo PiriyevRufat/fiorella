@@ -1,0 +1,60 @@
+{
+    "flowers": [
+      {
+        "id": "1",
+        "name": "Qizil Gul",
+        "views": 100,
+        "price": 200,
+        "img": "https://fiorello.qodeinteractive.com/wp-content/uploads/2018/04/shop-14-img.jpg"
+      },
+      {
+        "id": "2",
+        "name": "Lalə",
+        "views": 100,
+        "price": 230,
+        "img": "https://fiorello.qodeinteractive.com/wp-content/uploads/2018/04/shop-13-img.jpg"
+      },
+      {
+        "id": "3",
+        "name": "Daisy",
+        "views": 100,
+        "price": 240,
+        "img": "https://fiorello.qodeinteractive.com/wp-content/uploads/2018/04/shop-12-img.jpg"
+      },
+      {
+        "id": "4",
+        "name": "Yasəmən",
+        "views": 100,
+        "price": 250,
+        "img": "https://fiorello.qodeinteractive.com/wp-content/uploads/2018/04/shop-11-img.jpg"
+      },
+      {
+        "id": "5",
+        "name": "Qərənfil",
+        "views": 100,
+        "price": 260,
+        "img": "https://fiorello.qodeinteractive.com/wp-content/uploads/2018/04/shop-10-img.jpg"
+      },
+      {
+        "id": "6",
+        "name": "Elnur",
+        "views": 100,
+        "price": 400,
+        "img": "https://fiorello.qodeinteractive.com/wp-content/uploads/2018/04/shop-9-img.jpg"
+      },
+      {
+        "id": "7",
+        "name": "Kaktus",
+        "views": 100,
+        "price": 50,
+        "img": "https://fiorello.qodeinteractive.com/wp-content/uploads/2018/04/shop-8-img.jpg"
+      },
+      {
+        "id": "8",
+        "name": "Rüfət Güllü",
+        "views": 100,
+        "price": 2,
+        "img": "https://fiorello.qodeinteractive.com/wp-content/uploads/2018/04/shop-7-img.jpg"
+      }
+    ]
+  }
